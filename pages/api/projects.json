@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
+    "name": "ecommerce-react",
     "image": "https://imgur.com/kbGs6zH.png",
     "description": "A platform for web developers to showcase their projects",
     "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
