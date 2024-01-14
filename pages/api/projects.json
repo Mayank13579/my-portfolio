@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "ecommerce-react",
-    "image": "/images/ecommerce.png",
+    "name": "Shoppers",
+    "image": "/public/images/ecommerce.jpg",
     "description": "an ecommerce website for buying latest clothes catering for men , women and kids",
     "tags": ["react", "firebase"],
     "source_code": "https://github.com/Mayank13579/ecommerce_react",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "AIT-leave portal",
-    "image": "/images/leave.png",
+    "image": "/public/images/leave.png",
     "description": "A platform that provides leave facilities to ait students and reduces the process of leave authorization",
     "tags": ["react", "firebase"],
     "source_code":"https://github.com/Mayank13579/College-Leave-System",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "College complaint system",
-    "image": "/images/complaint.png",
+    "image": "/public/images/complaint.jpg",
     "description": "It is a website that maintains all complaint requests in AIT pune, and workers can access them easily on their phones. ",
     "tags": [ "node", "mongodb"],
     "source_code": "https://github.com/Mayank13579/AIT-Complain",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "TODO list",
-    "image": "/images/todo.png",
+    "image": "/public/images/todo.png",
     "description": "A react based simple todo list for tracking and managing day to day tasks",
     "tags": ["react"],
     "source_code": "https://github.com/Mayank13579/react-todo-list",
