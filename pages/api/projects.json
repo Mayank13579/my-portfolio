@@ -2,36 +2,37 @@
   {
     "id": 1,
     "name": "ecommerce-react",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/Mayank13579/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "image": "/images/ecommerce.png",
+    "description": "an ecommerce website for buying latest clothes catering for men , women and kids",
+    "tags": ["react", "firebase"],
+    "source_code": "https://github.com/Mayank13579/ecommerce_react",
+    "demo": "https://ecommerce-react-ivory-seven.vercel.app/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "AIT-leave portal",
+    "image": "/images/leave.png",
+    "description": "A platform that provides leave facilities to ait students and reduces the process of leave authorization",
+    "tags": ["react", "firebase"],
+    "source_code":"https://github.com/Mayank13579/College-Leave-System",
+    "demo": "https://college-leave-system.vercel.app/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
+    "name": "College complaint system",
+    "image": "/images/complaint.png",
+    "description": "It is a website that maintains all complaint requests in AIT pune, and workers can access them easily on their phones. ",
+    "tags": [ "node", "mongodb"],
+    "source_code": "https://github.com/Mayank13579/AIT-Complain",
     "demo": "https://healthyways.herokuapp.com/"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "TODO list",
+    "image": "/images/todo.png",
+    "description": "A react based simple todo list for tracking and managing day to day tasks",
+    "tags": ["react"],
+    "source_code": "https://github.com/Mayank13579/react-todo-list",
+    "demo": "https://react-todo-list-teal.vercel.app/"
   }
 ]
