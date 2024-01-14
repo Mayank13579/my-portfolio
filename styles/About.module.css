@@ -1,0 +1,30 @@
+/* About.module.css */
+
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.about h3 {
+  color: #333;
+}
+
+.about h4 {
+  color: #555;
+  line-height: 1.6;
+}
+
+.about strong {
+  color: #007bff;
+}
+
+.about a {
+  color: #28a745;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.about a:hover {
+  text-decoration: underline;
+}

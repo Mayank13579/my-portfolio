@@ -1,11 +1,11 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  {
-    social: 'website',
-    link: 'mayankdeveloper.com',
-    href: 'https://developermayank.com',
-  },
+  // {
+  //   social: 'website',
+  //   link: 'mayankdeveloper.com',
+  //   href: 'https://developermayank.com',
+  // },
   {
     social: 'email',
     link: 'mayankupadhyay13579@gmail.com',
