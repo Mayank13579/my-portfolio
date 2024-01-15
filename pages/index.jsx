@@ -17,8 +17,14 @@ export default function HomePage() {
             <Link href="/projects">
               <button className={styles.button}>View Work</button>
             </Link>
-            <Link href="/contact">
+            {/* <Link href="/contact">
               <button className={styles.outlined}>Contact Me</button>
+            </Link> */}
+            
+            <Link href="https://drive.google.com/file/d/1tGyHJAEiVOEKQQ-w-F5-z4WefvWjVDkK/view" passHref>
+                <a className={styles.button} download="Your_Resume.pdf">
+                 My Resume
+                </a>
             </Link>
           </div>
           <Illustration className={styles.illustration} />
