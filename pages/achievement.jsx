@@ -43,4 +43,11 @@ const achievement = () => {
   )
 }
 
+export async function getStaticProps() {
+  return {
+    props: { title: 'Achievements' },
+  };
+}
+
+
 export default achievement
