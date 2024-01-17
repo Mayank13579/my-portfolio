@@ -24,6 +24,7 @@ const sidebarTopItems = [
     Icon: MailIcon,
     path: '/contact',
   },
+  
 ];
 
 const sidebarBottomItems = [

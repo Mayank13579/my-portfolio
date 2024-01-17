@@ -28,4 +28,5 @@ export default CustomHead;
 
 CustomHead.defaultProps = {
   title: 'Mayank',
+
 };

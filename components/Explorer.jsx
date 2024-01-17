@@ -22,10 +22,16 @@ const explorerItems = [
     icon: 'js_icon.svg',
   },
   {
+    name:'achievement.css',
+    path:'/achievement',
+    icon:'css_icon.svg'
+  },
+  {
     name: 'about.html',
     path: '/about',
     icon: 'html_icon.svg',
   },
+  
   
 ];
 
