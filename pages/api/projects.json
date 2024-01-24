@@ -24,7 +24,7 @@
     "description": "It is a website that maintains all complaint requests in AIT pune, and workers can access them easily on their phones. ",
     "tags": [ "node", "mongodb"],
     "source_code": "https://github.com/Mayank13579/AIT-Complain",
-    "demo": "https://healthyways.herokuapp.com/"
+    "demo": "https://ait-complaint-register.vercel.app/"
   },
   {
     "id": 4,
