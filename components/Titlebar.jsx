@@ -12,6 +12,7 @@ const Titlebar = () => {
         className={styles.icon}
       />
       <div className={styles.items}>
+      
         <p>File</p>
         <p>Edit</p>
         <p>View</p>
