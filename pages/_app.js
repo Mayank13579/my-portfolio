@@ -17,7 +17,6 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <Layout>
-      {/* <Head title={`Mayank | ${pageProps.title}`} /> */}
       <Head title={`Mayank | ${pageProps.title}`} />
 
       <Component {...pageProps} />

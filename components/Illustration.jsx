@@ -5,7 +5,6 @@ function Illustration(props) {
       height={534}
       viewBox="0 0 486 534"
       fill="none"
-      xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
       <circle cx={167} cy={60} r={60} fill="#D7F484" />
